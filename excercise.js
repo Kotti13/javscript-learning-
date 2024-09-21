@@ -166,3 +166,14 @@ function print(...args){
 // for(i=array.length-1;i>=0;i--){
 //     print(array[i]);
 // }
+
+
+//area of circle 
+
+// function areaOfCircle(r){
+//     area=3.148*r*r;
+//     print("area is:"+area);
+
+// }
+
+// areaOfCircle(9);
