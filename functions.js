@@ -23,3 +23,28 @@
 // }
 
 // areaOfCircle(9);
+
+
+// print("hello");
+//for loop reverse print
+// for(i=10;i>0;i--){
+//     console.log(i);
+// }
+
+
+
+// for(i=1;i<=10;i++){
+   
+//     console.log(i+"x2="+i*2);
+// }
+
+//print tables in js
+// function tables(n){
+//     for(let i=1;i<=10;i++){
+//         console.log(i+'x'+n+"="+i*n);
+//     }
+// }
+
+// tables(7);
+
+
