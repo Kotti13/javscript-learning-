@@ -1,3 +1,8 @@
+function print(...args){
+    console.log(...args);
+}
+
+
 //js basic excercise
 
 // let a=10;
@@ -148,8 +153,27 @@
 // console.log(mergeSortedArrays([1, 3, 5], [2, 4, 6])); // returns [1, 2, 3, 4, 5, 6]
 
 
-function print(...args){
-    console.log(...args);
+
+print("hi I am santhosh");
+
+
+
+
+function santhosh(n){
+    for(i=1;i<=n;i++){
+        print(i);    }
 }
 
-print("hello");
+
+print("i am karthikeyan");
+
+
+let array=["karthik","sups","santhosh"];
+
+for(let arri of array){
+    print(arri);
+}
+
+
+
+
