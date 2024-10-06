@@ -121,3 +121,10 @@ function anagram(str1,str2){
 }
 
 console.log(anagram("silent","listen"));
+
+
+//flattern array use concat
+
+let matrix=[[1,2,3],[4,5,6],[7,8,9]];
+let flat=[].concat(...matrix);  //spread operator (...) //used nested arrays
+console.log(flat)
